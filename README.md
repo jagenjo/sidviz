@@ -6,3 +6,8 @@ Based on the amazing port [jsSID](https://github.com/jhohertz/jsSID) but modifye
 ![Preview](preview.png)
 
 Demo can be found here: http://tamats.com/apps/sid
+
+## Contact
+
+@tamat
+javi.agenjo@gmail.com
